@@ -1,2 +1,2 @@
 # I added the hello js file there
-# I am adding this from 'feature branch'
+# I am going to remove the branch name line here and create a new one 
